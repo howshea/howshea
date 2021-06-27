@@ -20,7 +20,7 @@ I am an professional Android/Flutter Developer。
 
 - 🔭 I’m currently working on **Hangzhou,China**.    
               
-- 🌱 I’m currently learning Ruby and iOS.
+- 🌱 I’m currently learning `Ruby` and `iOS`.
 
 - 👀 I Love FP.
 
