@@ -1,7 +1,7 @@
 ### Hi!🙈
 
 <!--
-**MartinRGB/martinrgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Howshea/howshea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,20 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<table>
-        <tr>
-            <td>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=howshea&show_icons=true"/>
               
-I am an Android/Flutter Developer。
+I am an professional Android/Flutter Developer。
 
-🔭 I’m currently working on **Hangzhou,China**.
-                    
-🌱 I’m currently learning Ruby and iOS.
-          </td>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=howshea&show_icons=true"/></td>
-        </tr>
-</table>
+- 🔭 I’m currently working on **Hangzhou,China**.    
+              
+- 🌱 I’m currently learning Ruby and iOS.
+
+- 👀 I Love FP.
 
 
 **Languages**
