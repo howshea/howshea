@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi!🙈
 
 <!--
 **MartinRGB/martinrgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,11 @@ Here are some ideas to get you started:
         <tr>
             <td>
               
-一个普通的 Android、Flutter 开发者。
+I am an Android/Flutter Developer。
 
-目前生活和工作在杭州。
-
-会一点前端，会一点设计，偏爱 Kotlin。
-
-「你的时间有限，所以不要浪费时间过别人的生活」。
+🔭 I’m currently working on **Hangzhou,China**.
+                    
+🌱 I’m currently learning Ruby and iOS.
           </td>
             <td><img src="https://github-readme-stats.vercel.app/api?username=howshea&show_icons=true"/></td>
         </tr>
